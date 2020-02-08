@@ -1,0 +1,38 @@
+body {
+	color: red;
+}
+
+/* definition for all h1s*/
+h1 {
+    color: #320A28;
+    size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+	color:#32a852;
+	size: 12px;
+	font-family: cursive;
+}
+ol {
+  	width: 200px;
+  	border: 2px solid black;
+  	margin: 10px;
+  	font-family: 'Neucha', cursive;
+}
+
+#fav_things {
+	background-color: #92a832;
+}
+
+.fun_facts {
+	background-color: #511730;
+}
+
+.fun_facts li{
+	color: white;
+}
+
+#change_color {
+	color: blue;
+}
